@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{515A4A97-2647-CD54-431D-D507AD3D115D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeCanvas", "NodeCanvas.csproj", "{8F17E9F9-BFF6-DCCB-2152-991A8865937B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParadoxNotion", "ParadoxNotion.csproj", "{DC60F26E-5A17-F237-7AF1-0914CF29DA22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515A4A97-2647-CD54-431D-D507AD3D115D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515A4A97-2647-CD54-431D-D507AD3D115D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515A4A97-2647-CD54-431D-D507AD3D115D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515A4A97-2647-CD54-431D-D507AD3D115D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F17E9F9-BFF6-DCCB-2152-991A8865937B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F17E9F9-BFF6-DCCB-2152-991A8865937B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F17E9F9-BFF6-DCCB-2152-991A8865937B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F17E9F9-BFF6-DCCB-2152-991A8865937B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC60F26E-5A17-F237-7AF1-0914CF29DA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC60F26E-5A17-F237-7AF1-0914CF29DA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC60F26E-5A17-F237-7AF1-0914CF29DA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC60F26E-5A17-F237-7AF1-0914CF29DA22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
